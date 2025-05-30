@@ -1,4 +1,12 @@
-## Hi there 👋
+## 🌐 Notable Website
+
+### [Identity Atelier](https://id-atelier.com)
+Personal style consulting that blends aesthetics and psychology. Founded by Ana Gayd, Identity Atelier goes beyond fashion trends and rules—helping clients discover the visual language of their identity through archetype-guided discovery, visual pattern recognition, and one-on-one insight sessions. This original approach draws from neuropsychology, architecture, design, and fashion to create a science-informed personal style journey.
+
+> “Not fashion. Not trends. Not rules. Your essence. Styled your way.”
+
+[Book a session](https://calendly.com/idatelier-ag/30min) • [Contact](https://id-atelier.com/#contact)
+
 
 <!--
 **glexey/glexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
